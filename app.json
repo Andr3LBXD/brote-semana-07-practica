@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Brote",
-    "slug": "brote-planificador",
+    "name": "Brote-ASLB",
+    "slug": "brote-aslb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
